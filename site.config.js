@@ -7,13 +7,17 @@ const CONFIG = {
     bio: "Not your stereotype hacker",
     linkedin: "https://www.linkedin.com/in/remco-vandermeer/",
     github: "https://github.com/1ncendium",
+    instagram: "",
   },
   // blog setting (required)
   blog: {
     title: "Cyber security blog",
     description: "Welcome to my cyber security blog!",
   },
-
+  projects: [
+    {
+    },
+  ],
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
