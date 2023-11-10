@@ -5,6 +5,7 @@ const CONFIG = {
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Ethical hacker",
     bio: "Not your stereotype hacker",
+    email: "",
     linkedin: "https://www.linkedin.com/in/remco-vandermeer/",
     github: "https://github.com/1ncendium",
     instagram: "",
@@ -16,6 +17,8 @@ const CONFIG = {
   },
   projects: [
     {
+      name: `Pentesting notes`,
+      href: "https://incendium.gitbook.io/pentesting-notes/",      
     },
   ],
   // CONFIG configration (required)
