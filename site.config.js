@@ -8,16 +8,10 @@ const CONFIG = {
     linkedin: "https://www.linkedin.com/in/remco-vandermeer/",
     github: "https://github.com/1ncendium",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Cyber security blog",
+    description: "Welcome to my cyber security blog!",
   },
 
   // CONFIG configration (required)
