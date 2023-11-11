@@ -12,7 +12,7 @@ const CONFIG = {
   },
   // blog setting (required)
   blog: {
-    title: "Incendium's cyber blog",
+    title: "Incendium's pentesting blog",
     description: "Welcome to my cyber security blog!",
   },
   projects: [

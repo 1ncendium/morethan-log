@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://incendium.rocks
+
+# Sitemaps
+Sitemap: https://incendium.rocks/sitemap.xml
