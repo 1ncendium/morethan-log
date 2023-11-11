@@ -6,8 +6,8 @@ const CONFIG = {
     role: "Ethical hacker",
     bio: "Not your stereotype hacker",
     email: "",
-    linkedin: "https://www.linkedin.com/in/remco-vandermeer/",
-    github: "https://github.com/1ncendium",
+    linkedin: "remco-vandermeer/",
+    github: "1ncendium",
     instagram: "",
   },
   // blog setting (required)
